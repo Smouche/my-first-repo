@@ -1,2 +1,2 @@
 # my-first-repo
-![ilja](ilja.png)
+![ilja](ilja.jpg)
